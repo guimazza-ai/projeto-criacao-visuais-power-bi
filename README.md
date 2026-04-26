@@ -79,6 +79,6 @@ Este relatório foi desenvolvido para analisar a **distribuição geográfica e 
 
 ## 🏆 Projeto
 
-- [Projeto - Analíse de Vendas](https://github.com/guimazza-ai/projeto-relacionamento-star-schema/blob/main/Projeto/star_schema_project.pbix)
-- [Base de Dados - Financial Sample](https://github.com/guimazza-ai/projeto-relacionamento-star-schema/blob/main/Projeto/Financial%20Sample%20(2).xlsx)
+- [Projeto - Analíse de Vendas](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Projeto_Analise%20de%20Vendas.pbix)
+- [Base de Dados - Financial Sample](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Financial%20Sample.xlsx)
 
