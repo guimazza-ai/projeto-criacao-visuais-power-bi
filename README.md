@@ -81,4 +81,4 @@ Este relatório foi desenvolvido para analisar a **distribuição geográfica e 
 
 - [Projeto - Analíse de Vendas](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Projeto_Analise%20de%20Vendas.pbix)
 - [Base de Dados - Financial Sample](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Financial%20Sample.xlsx)
-
+- [Apresentação - Analíse de Vendas](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Porjeto%20Anal%C3%ADse%20de%20Vendas.pptx)
